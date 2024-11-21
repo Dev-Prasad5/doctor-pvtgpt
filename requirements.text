@@ -1,0 +1,4 @@
+torch==1.13.1
+transformers==4.30.0
+streamlit==1.14.0
+numpy==1.24.2
