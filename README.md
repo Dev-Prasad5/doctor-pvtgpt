@@ -13,8 +13,8 @@ This is an interactive Doctor GPT model that allows users to ask about doctors s
 2. **Clone the Repository:**
 
    ```bash
-   !git clone https://github.com/yourusername/doctor-gpt.git
-   %cd /content/doctor-gpt
+   !git clone https://github.com/Dev-Prasad5/doctor-pvtgpt.git
+   %cd ./doctor-gpt
    ```
 
 3. **Run the Inference Script:**
