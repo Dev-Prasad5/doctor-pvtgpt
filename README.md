@@ -13,7 +13,7 @@ This is an interactive Doctor GPT model that allows users to ask about doctors s
 2. **Clone the Repository:**
 
    ```bash
-   !git clone https://github.com/Dev-Prasad5/doctor-pvtgpt.git
+   !git clone https://github.com/yourusername/doctor-gpt.git
    %cd /content/doctor-gpt
    ```
 
