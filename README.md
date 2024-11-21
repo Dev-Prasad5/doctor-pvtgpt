@@ -35,3 +35,7 @@ This is an interactive Doctor GPT model that allows users to ask about doctors s
 
 ## Notes:
 - The model can answer questions like "Who treats heart?", "Who specializes in plastic surgery?", and so on.
+
+## Output Sample:
+![test_interact](https://github.com/user-attachments/assets/d9fb45e1-5dcd-48a6-b04f-4c180376612f)
+
