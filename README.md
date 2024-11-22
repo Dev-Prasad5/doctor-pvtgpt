@@ -48,7 +48,7 @@ The model answers by listing doctors who specialize in the requested field based
 
 ## Data Scraping
  * Website Used:
-      [Medindia - Doctor Appointment]([https://website-name.com](https://www.medindia.net/doctor-appointment/tele-consultation.asp?category=Allopathy%20Doctors))
+      [Medindia_Doctor_Appointment]([https://website-name.com](https://www.medindia.net/doctor-appointment/tele-consultation.asp?category=Allopathy%20Doctors))
 
  - The doctor profiles were scraped from Medindia - Doctor Appointment. The data collected includes:
     - Doctor Names
