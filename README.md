@@ -47,7 +47,7 @@ This is an interactive Doctor GPT model that allows users to ask about doctors s
 The model answers by listing doctors who specialize in the requested field based on the scraped data.
 
 ## Data Scraping
- * Website Used: Medindia Doctor [Appointment]([https://website-name.com](https://www.medindia.net/doctor-appointment/tele-consultation.asp?category=Allopathy%20Doctors))
+ * Website Used: [Medindia Doctor Appointment](https://www.medindia.net/doctor-appointment/tele-consultation.asp?category=Allopathy%20Doctors)
 
  - The doctor profiles were scraped from Medindia - Doctor Appointment. The data collected includes:
     - Doctor Names
