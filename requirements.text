@@ -1,4 +1,7 @@
-torch==1.13.1
-transformers==4.30.0
-streamlit==1.14.0
-numpy==1.24.2
+selenium==4.1.0
+beautifulsoup4==4.11.1
+webdriver-manager==3.8.2
+torch==1.10.0
+transformers==4.11.3
+datasets==1.16.1
+streamlit==1.2.0
