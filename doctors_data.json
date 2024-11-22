@@ -1,0 +1,2650 @@
+[
+    {
+        "name": "Dr. Ashok Kumar Sharma",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Rakesh Kumar Sharma",
+        "specialty": "MBBS, MS, PGDHA"
+    },
+    {
+        "name": "Dr. Raman Kapur",
+        "specialty": "MBBS, Dipl. Ac., MD"
+    },
+    {
+        "name": "Dr. Rajesh Dudeja",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Jagdish J. Bhatt",
+        "specialty": "DLO, MS"
+    },
+    {
+        "name": "Dr. Shraddha Shyam  Phanse",
+        "specialty": "MBBS, DGO"
+    },
+    {
+        "name": "Dr. Purushothaman D",
+        "specialty": "MBBS, MS, D.T.M, PhD"
+    },
+    {
+        "name": "Dr. M P Krishnan Nair",
+        "specialty": "MBBS, DPH"
+    },
+    {
+        "name": "Dr. Chopda Manaklal Ratanchand",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Vijay Chourdia",
+        "specialty": "MBBS, MS"
+    },
+    {
+        "name": "Dr. Pramod Kulkarni",
+        "specialty": "MBBS, MD, MRCPCH, PGDip"
+    },
+    {
+        "name": "Dr. Harshad Parekh",
+        "specialty": "MBBS, MS, MCH"
+    },
+    {
+        "name": "Prof. Dr. Hmp  Singh",
+        "specialty": "MBBS, MD, PhD, FRCP [Edin] UK"
+    },
+    {
+        "name": "Dr. Sunil Shroff",
+        "specialty": "MBBS, FRCS, Dip. Urology, MS"
+    },
+    {
+        "name": "Dr. Suganthi Natarajan",
+        "specialty": "MBBS, MD, DNB"
+    },
+    {
+        "name": "Dr. Rashmi Wadhwa",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Tushar Shah",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Parivalavan Rajavelu",
+        "specialty": "MBBS, MS, DNB, FRCS"
+    },
+    {
+        "name": "Dr. Sunita Kapur",
+        "specialty": "MBBS, Dipl. Ac."
+    },
+    {
+        "name": "Dr. Hitesh Narendra Shah",
+        "specialty": "MBBS, MS, FRCSI, MBA, DHA, PGDMLS"
+    },
+    {
+        "name": "Dr. Suresh Kumar N",
+        "specialty": "MBBS, MS, FRCS, MRCS, FRCSI, FFCM"
+    },
+    {
+        "name": "Dr. Vandana Parti",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Subhaga Sawant",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Anju Methil",
+        "specialty": "MBBS, DVD, MD"
+    },
+    {
+        "name": "Dr. Sk Rungta",
+        "specialty": "MBBS, MS"
+    },
+    {
+        "name": "Dr. Arun Kumar  Balakrishnan",
+        "specialty": "MBBS, MS, FRCS, MCh, MChir"
+    },
+    {
+        "name": "Dr. Pravin  Dungarwal",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Utpal Gogoi",
+        "specialty": "MBBS, MS"
+    },
+    {
+        "name": "Dr. Ashit Shah",
+        "specialty": "MBBS, MS, MCh Plastic Surgery"
+    },
+    {
+        "name": "Dr. Ramesh  Babu",
+        "specialty": "MBBS, MS, MCh, MChir, FRCS, FRCS Paed, PhD"
+    },
+    {
+        "name": "Dr. Arun  Narayanaswamy",
+        "specialty": "MBBS, MS, DNB, MCH, DNB"
+    },
+    {
+        "name": "Dr. Subramanian Swaminathan",
+        "specialty": "MD, DNB, ABIM, AB Infectious Diseases"
+    },
+    {
+        "name": "Dr. Rajinder Kaur Saggu",
+        "specialty": "MBBS, MS, FFR"
+    },
+    {
+        "name": "Dr. Krishnan Panchapakesan",
+        "specialty": "MBBS, MS, M.Ch"
+    },
+    {
+        "name": "Dr. Rajkumar  Murugesan",
+        "specialty": "MBBS, MS, Mch, MRCS, FCLM"
+    },
+    {
+        "name": "Dr. Anita Huparikar",
+        "specialty": "MBBS, DGO, MS"
+    },
+    {
+        "name": "Dr. Sandeep Gupta",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Usha  Hariram",
+        "specialty": "MBBS, Diploma In Skin Aesthetics, DDVL"
+    },
+    {
+        "name": "Dr. Suresh Herbert  P",
+        "specialty": "MBBS, DNB"
+    },
+    {
+        "name": "Dr. Ismail Rayaroth",
+        "specialty": "MBBS, PGDFM"
+    },
+    {
+        "name": "Dr. Siddharth Kharkar",
+        "specialty": "MBBS, MD, MHS, Fellowship In Epilepsy"
+    },
+    {
+        "name": "Dr. Shashidhar Shree Niwas",
+        "specialty": "MBBS, D.M."
+    },
+    {
+        "name": "Dr. Swati Gautam",
+        "specialty": "MBBS, DGO, MHA"
+    },
+    {
+        "name": "Dr. Soofia Shaheen",
+        "specialty": "MBBS, MS"
+    },
+    {
+        "name": "Dr. A Chandra Shekar",
+        "specialty": "MBBS, MD, DNB, FASN, MSc, PhD"
+    },
+    {
+        "name": "Dr. Shireen  Bano",
+        "specialty": "MBBS, DOMS"
+    },
+    {
+        "name": "Dr. Richika Sahay  Shukla",
+        "specialty": "MBBS, DNB"
+    },
+    {
+        "name": "Dr. Dr Ashish  Hankare",
+        "specialty": "BHMS, PCND, PGDMT, PGDCC, PGDCD, FAM, FAAM, FMTHT"
+    },
+    {
+        "name": "Dr. Vipra Shree",
+        "specialty": "MBBS, MS"
+    },
+    {
+        "name": "Dr. Sivakumar Subramaniyan",
+        "specialty": "MBBS, MS, Mch"
+    },
+    {
+        "name": "Dr. Lokesh Shanmugam",
+        "specialty": "MBBS, MD, FIRD"
+    },
+    {
+        "name": "Dr. Sarita Tippannawar",
+        "specialty": "MBBS, DDVL"
+    },
+    {
+        "name": "Dr. Chopda Anand  Manaklal",
+        "specialty": "MBBS, MD Medicine, FIN Cardiology, DNB Cardiology"
+    },
+    {
+        "name": "Dr. Gaikwad Amol  Eknath",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Sonia  Dogra",
+        "specialty": "MBBS, PGDHA"
+    },
+    {
+        "name": "Dr. Sugandh Garg",
+        "specialty": "MBBS, MD, Clinical Diabetes"
+    },
+    {
+        "name": "Dr. Nidhi Jain",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Kulla Okram Singh",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Vijay Shetty",
+        "specialty": "MBBS, MS, FRCS"
+    },
+    {
+        "name": "Dr. R Vignesh  Kumar",
+        "specialty": "MBBS, DDVL"
+    },
+    {
+        "name": "Dr. Monika Deswal",
+        "specialty": "MBBS, MS"
+    },
+    {
+        "name": "Dr. Manish Jain",
+        "specialty": "MBBS, Diploma in Cardiology, MRCP, Fellowship in Cardic Imaging"
+    },
+    {
+        "name": "Dr. Mira Govindarajan",
+        "specialty": "MBBS, MD, MHA"
+    },
+    {
+        "name": "Dr. Sarang Shete",
+        "specialty": "MD, DNB, MNAMS, PhD"
+    },
+    {
+        "name": "Dr. Arun Kanala",
+        "specialty": "MBBS, MS, MCH, Clinical Fellowship ( USA )"
+    },
+    {
+        "name": "Dr. Bhagyashri R Naphade",
+        "specialty": "MBBS, MD, DGO, FMAS, FRM( fellowship in reproductive medicine ), Fellowship in cosmetic gynecology"
+    },
+    {
+        "name": "Dr. Vishwajyoti Ray",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Uma Mishra",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Balaji Jaganmohan",
+        "specialty": "MD, PGDD, FID"
+    },
+    {
+        "name": "Dr. Meenakshi  Sharma",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Nilofer Naaz",
+        "specialty": "MBBS, DGO, PGDMCH"
+    },
+    {
+        "name": "Dr. Radha Rajpal",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Arvind  Raj P",
+        "specialty": "MD"
+    },
+    {
+        "name": "Dr. Seema Sylvia  Dsouza",
+        "specialty": "MBBS, MPH, Diploma in Pediatrics"
+    },
+    {
+        "name": "Dr. Shwetambari Singh",
+        "specialty": "MS"
+    },
+    {
+        "name": "Dr. Sowmya Dath",
+        "specialty": "MBBS, PGDCC, CCEBDM"
+    },
+    {
+        "name": "Dr. Joe Kaushik",
+        "specialty": "MBBS, MS, OBG,FAMH"
+    },
+    {
+        "name": "Dr. Kavitha Ram",
+        "specialty": "MBBS, MD, PGDHM"
+    },
+    {
+        "name": "Prof. Dr. Rohit Chhirolya",
+        "specialty": "MBBS, MD, DM"
+    },
+    {
+        "name": "Dr. Shakya Bhattacharjee",
+        "specialty": "MBBS, MD, MRCP, MRCP, CCT Neurology"
+    },
+    {
+        "name": "Dr. Amit Jain",
+        "specialty": "MBBS, MS"
+    },
+    {
+        "name": "Dr. Arun Varghese",
+        "specialty": "MBBS, MD, Fellowship in Paediatric Critical Care"
+    },
+    {
+        "name": "Dr. Anita Mahey",
+        "specialty": "MD, MBBS, Fellowship, Senior Residency"
+    },
+    {
+        "name": "Dr. Vishwajit Ranjit Roy",
+        "specialty": "BAMS, DEMS, DPCA, DIT DIOM DIC, Certified nutrigenomics consultant"
+    },
+    {
+        "name": "Dr. Atul Prabhu",
+        "specialty": "MBBS, MD, FNB"
+    },
+    {
+        "name": "Dr. Saravanan R",
+        "specialty": "MBBS, DTCD, PG.D.DIAB"
+    },
+    {
+        "name": "Dr. Samrat Jankar",
+        "specialty": "MBBS, MS, DNB"
+    },
+    {
+        "name": "Dr. Dhanireddy Salini Shakuntala",
+        "specialty": "MBBS, MS"
+    },
+    {
+        "name": "Dr. Julia Chandra Ruby Dasan",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Poornima Sg",
+        "specialty": "MBBS, DFM, D. Diab"
+    },
+    {
+        "name": "Dr. Harshvardhan Deshpande",
+        "specialty": "MBBS, DNB, DNB"
+    },
+    {
+        "name": "Dr. (lt Col) Kuldeep  Singh",
+        "specialty": "MBBS, MD, DNB"
+    },
+    {
+        "name": "Dr. Shailender Kumar",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Rati  Saxena",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Anoop Wilson",
+        "specialty": "MBBS, DNB, MRCP"
+    },
+    {
+        "name": "Dr. (maj) Urvashi Shetty",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Amit Vatkar",
+        "specialty": "MBBS, DCH, DNB, FPN"
+    },
+    {
+        "name": "Dr. Divya C R",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Sahil Kapur",
+        "specialty": "MBBS, MD, Dipl. Ac."
+    },
+    {
+        "name": "Dr. Navinath  M",
+        "specialty": "MBBS, MD, DM"
+    },
+    {
+        "name": "Dr. Aswin Thankachan V",
+        "specialty": "MBBS, MS, FASM"
+    },
+    {
+        "name": "Dr. Aloka Nanda  Dalal",
+        "specialty": "MBBS, C Diab"
+    },
+    {
+        "name": "Dr. Bhushan Ambadkar",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Ashwin Nitin Bidkar",
+        "specialty": "MD Physician, DM Cardiology, DM Radiology"
+    },
+    {
+        "name": "Dr. Ajith Paleakkara",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Anil Sharma",
+        "specialty": "MBBS, MD, PDCC"
+    },
+    {
+        "name": "Dr. Gayathri Vijayalakshmi",
+        "specialty": "MBBS, DPM, DNB"
+    },
+    {
+        "name": "Dr. Guthula Naresh",
+        "specialty": "MBBS, MS, FBSO"
+    },
+    {
+        "name": "Dr. Atish Bakane",
+        "specialty": "MBBS, DCh, DNB, FNB"
+    },
+    {
+        "name": "Dr. Asha Babu",
+        "specialty": "MBBS, DCH, DNB"
+    },
+    {
+        "name": "Dr. Shikha  Sardana",
+        "specialty": "MBBS, MS, DNB"
+    },
+    {
+        "name": "Dr. Nadeer  Kalayam Kulath",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Fakhruddin Farook",
+        "specialty": "MBBS, MS"
+    },
+    {
+        "name": "Dr. Jensy C",
+        "specialty": "MBBS, DGO, DNB"
+    },
+    {
+        "name": "Dr. Hiren Popat",
+        "specialty": "MBBS, PGCIH, D.T.C.D."
+    },
+    {
+        "name": "Dr. Joice Joseph",
+        "specialty": "MBBS, DNB"
+    },
+    {
+        "name": "Dr. Ravi Suryawanshi",
+        "specialty": "MBBS, MS"
+    },
+    {
+        "name": "Dr. Lakshmi M Warrier",
+        "specialty": "MBBS, DCH, DNB"
+    },
+    {
+        "name": "Dr. Eby Mathew",
+        "specialty": "MBBS, MD, DM"
+    },
+    {
+        "name": "Dr. Lakhmi Chand  Yadav",
+        "specialty": "MD"
+    },
+    {
+        "name": "Dr. Nevin S",
+        "specialty": "MBBS, MD, DM"
+    },
+    {
+        "name": "Dr. Thatikonda Ravindrababu",
+        "specialty": "MBBS, MS"
+    },
+    {
+        "name": "Dr. Vijay Kumar Singh",
+        "specialty": "MBBS, MS, FMAS, DMAS"
+    },
+    {
+        "name": "Dr. Prachi",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Manas Thakur",
+        "specialty": "MD, DM"
+    },
+    {
+        "name": "Dr. Vaibhav Vishal",
+        "specialty": "MBBS, MS, MCh"
+    },
+    {
+        "name": "Dr. Suresh Kanna S",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Waseem Ahmed N",
+        "specialty": "MBBS, CCEBDM, PGDGM, DFID, DNB, Dip. Clinical Endocrinology and Diabetes, FDFM"
+    },
+    {
+        "name": "Dr. Pankaj Kumar",
+        "specialty": "MBBS, MD, DM"
+    },
+    {
+        "name": "Dr. Zaheer Ahmad",
+        "specialty": "MD"
+    },
+    {
+        "name": "Dr. Ramya  Sadaram",
+        "specialty": "MBBS, DGO"
+    },
+    {
+        "name": "Dr. Jitty George",
+        "specialty": "MBBS, DPM, MD, DNB, IACAM fellowship in Child and Adolescent Psychiatry"
+    },
+    {
+        "name": "Dr. Kirtijit Chakma",
+        "specialty": "MBBS, DCP, MD"
+    },
+    {
+        "name": "Dr. Raj Prakash  Chandramohan",
+        "specialty": "MBBS, MS, FIAGES, FALS, Fellowship in Robotic"
+    },
+    {
+        "name": "Dr. Manoj Kumar",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. John Meshack Bandela",
+        "specialty": "MBBS, DNB"
+    },
+    {
+        "name": "Dr. Prattay Ghosh",
+        "specialty": "MBBS, MD, PGDCC, PGDCED"
+    },
+    {
+        "name": "Dr. Madhusoodan  Gupta",
+        "specialty": "DNB Plastic Surgery"
+    },
+    {
+        "name": "Dr. Rachit Patel",
+        "specialty": "MBBS, CPCDM"
+    },
+    {
+        "name": "Dr. Ikhlaq A Choudhary",
+        "specialty": "MD, DPM"
+    },
+    {
+        "name": "Dr. Aastha Gupta",
+        "specialty": "MBBS, DGO, MMCh, DAGE"
+    },
+    {
+        "name": "Dr. Deepak Shukla",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Abhinandana Sheshamatam",
+        "specialty": "BAMS, MS"
+    },
+    {
+        "name": "Dr. Anurag Garg",
+        "specialty": "MCh, MChir, MS, MBBS"
+    },
+    {
+        "name": "Dr. Amol Arun Dhage",
+        "specialty": "MS, MCH"
+    },
+    {
+        "name": "Dr. Apoorva Agarwal",
+        "specialty": "MBBS, FID"
+    },
+    {
+        "name": "Dr. Abhilasha",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Amol Patil",
+        "specialty": "MBBS, PGDSM, DFM, MSc"
+    },
+    {
+        "name": "Dr. Ankita Mandal",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Anshul Jain",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Fahd Bukhari",
+        "specialty": "MD, MD"
+    },
+    {
+        "name": "Dr. S. Hussain",
+        "specialty": "MBBS, MD, MRCP"
+    },
+    {
+        "name": "Dr. Kumari  Anukriti",
+        "specialty": "MBBS, MS, DNB, MBBS, MS, DNB"
+    },
+    {
+        "name": "Dr. Farha A V",
+        "specialty": "MBBS, DNB"
+    },
+    {
+        "name": "Dr. Janardhana Reddy",
+        "specialty": "MBBS, DCH, DNB"
+    },
+    {
+        "name": "Dr. Arushi Prakash",
+        "specialty": "MBBS, MS, FLVPEI"
+    },
+    {
+        "name": "Dr. Amit Singh Omprakash",
+        "specialty": "MBBS, MD, DM, ESC-HFA Certification, EAPCI Certification, European Examination in Core Cardiology"
+    },
+    {
+        "name": "Dr. Brinda V S",
+        "specialty": "MBBS, MCIM"
+    },
+    {
+        "name": "Dr. Rahul Vanjari",
+        "specialty": "MBBS, MS"
+    },
+    {
+        "name": "Dr. Ramij Raja Sheikh",
+        "specialty": "MBBS, DNB, MNAMS"
+    },
+    {
+        "name": "Dr. Rabeebudheen A",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Setul Shah",
+        "specialty": "MS"
+    },
+    {
+        "name": "Dr. Neeraj  Aggarwal",
+        "specialty": "MBBS, MS, DNB"
+    },
+    {
+        "name": "Dr. Pranali Tarkar",
+        "specialty": "MBBS, DGO, DNB, F.MAS, DIIE, DCU, DAN"
+    },
+    {
+        "name": "Dr. Vinodh Kumar S",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Viral Patel",
+        "specialty": "MBBS, DNB, MCH"
+    },
+    {
+        "name": "Dr. Srinivas  Kandregula",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Nitin Sattiwale",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Susmitha R R",
+        "specialty": "MBBS, PGDFM"
+    },
+    {
+        "name": "Dr. Manik Kaur",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Bhaskar Ram Voilada",
+        "specialty": "MD"
+    },
+    {
+        "name": "Dr. Ketul Shah",
+        "specialty": "MS"
+    },
+    {
+        "name": "Dr. Satish Ganesh Ghatol",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Gayathri Karthikeyan",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. George Taliat",
+        "specialty": "MBBS, MS, Mch"
+    },
+    {
+        "name": "Dr. Smiley Jagadeesan",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Sayuj Krishnan S",
+        "specialty": "MBBS, DNB"
+    },
+    {
+        "name": "Dr. G Rajesh Reddy",
+        "specialty": "MBBS, MS"
+    },
+    {
+        "name": "Dr. Naga Sai Lakshmi Pusarla",
+        "specialty": "MBBS, DNB"
+    },
+    {
+        "name": "Dr. Ayswarya R",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Prachi Patil",
+        "specialty": "MBBS, PGDD"
+    },
+    {
+        "name": "Dr. Vignesh Jagannathan",
+        "specialty": "MBBS, DNB"
+    },
+    {
+        "name": "Dr. Mrunalini Jagne",
+        "specialty": "MBBS, MS, FRM"
+    },
+    {
+        "name": "Dr. Nigil Sadanandan Palliyil",
+        "specialty": "MBBS, MS, DNB, FNB, Senior Clinical Fellowship"
+    },
+    {
+        "name": "Dr. Syed Zain Abbas",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Paresh Patel",
+        "specialty": "MBBS, DNB"
+    },
+    {
+        "name": "Dr. Nazrul Hasan",
+        "specialty": "MBBS, MS, FIAGES, FMAS, FALS, Robotic Surgery Course, Fellowship In Advanced Endoscopy"
+    },
+    {
+        "name": "Dr. Syed Abdul Tahir",
+        "specialty": "MS, MRCS"
+    },
+    {
+        "name": "Dr. Rizwana",
+        "specialty": "MBBS, MS"
+    },
+    {
+        "name": "Dr. Nivedhitha",
+        "specialty": "MBBS, DNB"
+    },
+    {
+        "name": "Dr. Sandesh Pasumarthy",
+        "specialty": "MBBS, MD, Fellowship in sexual medicine, Certificate in diabetes mellitus"
+    },
+    {
+        "name": "Dr. Sambit  Banerjee",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Richa Khetan",
+        "specialty": "MBBS, MD, FFM"
+    },
+    {
+        "name": "Dr. Chetana Jindani",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Srinath T V",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Shubreet",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Riswana Nasrin  Nazeer Ahamed",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Mahboob Waris",
+        "specialty": "MD, PGDFM, Fellowship in Epidemiology and Biostatistics"
+    },
+    {
+        "name": "Dr. Sandeep Sekhon",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Ashish Saruparia",
+        "specialty": "MBBS, CDE"
+    },
+    {
+        "name": "Dr. Dhyani  Shekhinah S",
+        "specialty": "MBBS, PGDFM"
+    },
+    {
+        "name": "Dr. Jasmin",
+        "specialty": "MBBS, FID"
+    },
+    {
+        "name": "Dr. Govarthanan  Maran",
+        "specialty": "MBBS, DM"
+    },
+    {
+        "name": "Dr. Harsha  B",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Ansuman  Dash",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Chandrasekar Vamisetty",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Hannan Sheik  Kabir",
+        "specialty": "MBBS, D.Ortho, DNB, FAGE"
+    },
+    {
+        "name": "Dr. Adnan Khan",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Alaukik Goyal",
+        "specialty": "MBBS, CTCCM"
+    },
+    {
+        "name": "Dr. Chhaya Bohare",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Santosh Shimpiger",
+        "specialty": "MBBS, MD, Fellowship in Neonatology (IAP)"
+    },
+    {
+        "name": "Dr. Vikas Jaiswal",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Sachin Tutu",
+        "specialty": "MBBS, MD, DNB"
+    },
+    {
+        "name": "Dr. Sandhia Rani S",
+        "specialty": "MBBS, MS, MRCOG, DNB"
+    },
+    {
+        "name": "Dr. Nipa Patel",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Rishabh Gupta",
+        "specialty": "MBBS, MD, DM"
+    },
+    {
+        "name": "Dr. Chandrasekar Vamisetty",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Teiso",
+        "specialty": "MBBS, MS"
+    },
+    {
+        "name": "Dr. Vidhun Rajbarath",
+        "specialty": "MCh, MChir"
+    },
+    {
+        "name": "Dr. Rajesh J",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Sudeshna Mandal",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Vinmini Ambikapathi",
+        "specialty": "BNYS, MD"
+    },
+    {
+        "name": "Dr. Subhadip Bag",
+        "specialty": "MBBS, MD, PGDFM"
+    },
+    {
+        "name": "Dr. Suma G K",
+        "specialty": "MD"
+    },
+    {
+        "name": "Dr. Vivek Pratap  Singh",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Sushmita Aggarwal",
+        "specialty": "MBBS, MS"
+    },
+    {
+        "name": "Dr. Padma Kannan",
+        "specialty": "MBBS, MS, FIAGES"
+    },
+    {
+        "name": "Dr. Nitin Manubhai  Butani",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Mariyam Hanna  Bathool",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Vairanandhini",
+        "specialty": "MBBS, FIFM"
+    },
+    {
+        "name": "Dr. Rashmi Naldeega",
+        "specialty": "MBBS, DDVL"
+    },
+    {
+        "name": "Dr. Salil Kumar Gupta",
+        "specialty": "MBBS, PGD"
+    },
+    {
+        "name": "Dr. Sofia Praveen",
+        "specialty": "MBBS, MBBS"
+    },
+    {
+        "name": "Dr. Shriram Ajegaonkar",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Ronit Thukral",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Anuj Sharma",
+        "specialty": "MBBS, MS"
+    },
+    {
+        "name": "Dr. Moovendan Kannan",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Adarsh Prabhakar  Bagali",
+        "specialty": "MBBS, MD, NICU"
+    },
+    {
+        "name": "Dr. Arun Narayanan",
+        "specialty": "MBBS, MS, DNB, MCH, DrNB"
+    },
+    {
+        "name": "Dr. Monisha K",
+        "specialty": "MBBS, MS"
+    },
+    {
+        "name": "Dr. Deshmukh Parag",
+        "specialty": "MBBS, MD, DNB, IDCCM, CCEBDM"
+    },
+    {
+        "name": "Dr. L Priya Dharshini",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Kartik Narkhede",
+        "specialty": "MBBS, MS"
+    },
+    {
+        "name": "Dr. Amol Nagvekar",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Krishna Nair",
+        "specialty": "MBBS, MS"
+    },
+    {
+        "name": "Dr. Kumar Teja Reddy",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Kurimella Raghunath",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Gaayathri Pallauh",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Hashimeen Zaara",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Gladston V",
+        "specialty": "MBBS, D.Diab, FIFM, SR-Emergency Medicine"
+    },
+    {
+        "name": "Dr. Aparajeeta Bora",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Saleema Beegum  Cg",
+        "specialty": "MBBS, PGDND"
+    },
+    {
+        "name": "Dr. Krishna Veni",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Shounak Kar",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Aakanksha Gupta",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Chandaa  V J",
+        "specialty": "MBBS, MS"
+    },
+    {
+        "name": "Dr. Akash Rathod",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Ambrin Zuha",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Ajinkya Agrawal",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Faizan Ahmad",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Nandita Gautam",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Pallavi Sharma Wahal",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Ramanjit Kaur",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Malathy M",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Sai Kiran Gova",
+        "specialty": "MBBS, MS"
+    },
+    {
+        "name": "Dr. Rahul  Sharma",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Mukesh Kumar",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Mufeeda  Roohi",
+        "specialty": "MBBS, FID"
+    },
+    {
+        "name": "Dr. Manish Hs",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Ramesh Kumar  Yadav",
+        "specialty": "MBBS, Family Medicine (PGDFM)"
+    },
+    {
+        "name": "Dr. Subhadeep Koner",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Suma Reddy P",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Sabarirajan M",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Srinivas Manchinella",
+        "specialty": "MBBS, MD, MD"
+    },
+    {
+        "name": "Dr. Vaishali Chauhan",
+        "specialty": "MBBS, FAM"
+    },
+    {
+        "name": "Dr. Vasani Asha Kuvarji",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Nileshkumar M Thummar",
+        "specialty": "MD, DNB, IDCCM"
+    },
+    {
+        "name": "Dr. Ponmani E",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Meher Darakshan",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Prashanth  Y S",
+        "specialty": "MBBS, PGDMLE, MD"
+    },
+    {
+        "name": "Dr. Renu Swetha",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Bhaviya Rajasekaran",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Abhani Brijesh",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Shiny Kajal",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Dixant  Chhikara",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Arunya Elangovan",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Anjana Chakkarambath",
+        "specialty": "MBBS, FDM"
+    },
+    {
+        "name": "Dr. Kandasamy V",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Asmita Pandey",
+        "specialty": "MBBS, FAM"
+    },
+    {
+        "name": "Dr. Kavya Rajendran",
+        "specialty": "MBBS, DNB"
+    },
+    {
+        "name": "Dr. Kayenat Eqbal",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Anithaa",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Junaid Rehmani",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Shobhit Kumar  Prasad",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Shreyansh Solanki",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Aparna  P",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Ariharan Ganesan",
+        "specialty": "MD"
+    },
+    {
+        "name": "Dr. Dharini Rajakumar",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Anusha Vasimalla",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Gautam Chopra",
+        "specialty": "MBBS, MS, DNB"
+    },
+    {
+        "name": "Dr. Syed Mohammed Tayaib Raza",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Poornima Parasuraman",
+        "specialty": "MBBS, MS"
+    },
+    {
+        "name": "Dr. Zaheda Aziz",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Saurabh",
+        "specialty": "MBBS, Diabetology"
+    },
+    {
+        "name": "Dr. Numaan  Qadri",
+        "specialty": "MBBS, FMGE, PLAB(UK)"
+    },
+    {
+        "name": "Dr. Maduri Vankayalapati",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Pooja A R",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Manik  Arora",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Sasi Kumar J",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Swathika T",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Manimaran N S",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Lokesh Muneeswaran",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Shailesh Dhakar",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Nidhi Rane",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Vigneshwaran V",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Rahul Surya",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Purnima Srivastva",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Nishchitha Bhat",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Ms. Prathi Priya P",
+        "specialty": "MSc"
+    },
+    {
+        "name": "Dr. Popuri Sai Krishnan",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Kirti Singh",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Lakshmy Shankar",
+        "specialty": "MBBS, Diabetology"
+    },
+    {
+        "name": "Dr. Dana Prabagaran I.d",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Anaswara  Rajan",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. A Shahul Hameed",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Aparupa Dutta",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Kaleeswaran C",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Afeef Alungal",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Udaya Nath  Sahoo",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Thirupathi Rao  Periyala",
+        "specialty": "MBBS, DTCD"
+    },
+    {
+        "name": "Dr. Jagdish Deshpande",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Neelam",
+        "specialty": "MBBS, DGO, MD"
+    },
+    {
+        "name": "Dr. Koteeswara Rao Narasimhalu",
+        "specialty": "MBBS, FRSH"
+    },
+    {
+        "name": "Dr. Chaitanya  Buch",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Rajeev Aggarwal",
+        "specialty": "MD, MBBS"
+    },
+    {
+        "name": "Dr. Raja Muthiah Natarajan",
+        "specialty": "MBBS, MS"
+    },
+    {
+        "name": "Dr. Deepak Arora",
+        "specialty": "MBBS, MS, FICS"
+    },
+    {
+        "name": "Dr. Mohammed Abdul Khuddus",
+        "specialty": "MBBS, MD, FCR, NHS"
+    },
+    {
+        "name": "Dr. Bipin Bhikhabhai Shah",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Santhosh Babu M R",
+        "specialty": "MBBS, DPhysMed"
+    },
+    {
+        "name": "Dr. Shrimant Burute",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Senthil Kannan",
+        "specialty": "MBBS, MS"
+    },
+    {
+        "name": "Dr. Kalyanasundari Gomathinayagam",
+        "specialty": "MBBS, DNB RURAL SURGERY"
+    },
+    {
+        "name": "Dr. Milind Bhrushundi",
+        "specialty": "MD"
+    },
+    {
+        "name": "Dr. Zakir Hussain",
+        "specialty": "MBBS, PGDD"
+    },
+    {
+        "name": "Dr. Sukumari Karunakaran",
+        "specialty": "Mch(Urology), MCh, MChir"
+    },
+    {
+        "name": "Dr. Madhav Waze",
+        "specialty": "MBBS, MS"
+    },
+    {
+        "name": "Dr. Bhagwant Singh  Ratta",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Nicasia  Fernandes",
+        "specialty": "MD, DNB, MNAMS, MRCGP, FELLOWSHIP IN CLINICAL CARDIOLOGY"
+    },
+    {
+        "name": "Dr. Abbas Ali Sheikh",
+        "specialty": "MBBS, DGO, MRCOG, FRCOG"
+    },
+    {
+        "name": "Dr. Tamilselvi Arjunan",
+        "specialty": "MBBS, MS"
+    },
+    {
+        "name": "Dr. Padmasini S",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Rafat Parkar",
+        "specialty": "MD"
+    },
+    {
+        "name": "Dr. J Prabhakar Rao",
+        "specialty": "MBBS, MS"
+    },
+    {
+        "name": "Dr. Arvind Verma",
+        "specialty": "MBBS, MRCPsych"
+    },
+    {
+        "name": "Dr. Madhavan Seshadri",
+        "specialty": "MBBS, MD, FRCP, PhD"
+    },
+    {
+        "name": "Dr. Vijay Viswanathan",
+        "specialty": "MBBS, DGC"
+    },
+    {
+        "name": "Dr. D Harish Kumar",
+        "specialty": "MBBS, Board Certified Lifestyle Medicine"
+    },
+    {
+        "name": "Dr. Ravi Modali",
+        "specialty": "MBBS, MS, MCh, MChir"
+    },
+    {
+        "name": "Dr. Ketan Shukla",
+        "specialty": "MBBS, DNB, PGDD, MMsc, MD, PhD"
+    },
+    {
+        "name": "Dr. Madhumati Varma",
+        "specialty": "MBBS, Diploma in diabetology, Fellowship in critical care, Master class in digital health"
+    },
+    {
+        "name": "Dr. Haleema Yezdani",
+        "specialty": "MS, MBBS"
+    },
+    {
+        "name": "Dr. Gomathy E",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Sushil Kumar Sompur",
+        "specialty": "MBBS, MD, DM Cardiology, Post DM Fellowship, FSCAI"
+    },
+    {
+        "name": "Dr. John Masih",
+        "specialty": "MBBS, MS"
+    },
+    {
+        "name": "Dr. Srinivasa Prasad",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Vishnu Vandana Gowthamnath",
+        "specialty": "MBBS, PGDCC, Fellowship Cardiology"
+    },
+    {
+        "name": "Dr. Pankaj Kumar",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Manoj Varma",
+        "specialty": "MBBS, MS"
+    },
+    {
+        "name": "Dr. Sanjay Koul",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Ramya Balasubramanian",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Prasanthi Pslk",
+        "specialty": "MBBS, MD, MRCOG"
+    },
+    {
+        "name": "Dr. Manoj Kumar Shah",
+        "specialty": "MBBS, DPM, DEM"
+    },
+    {
+        "name": "Dr. Divya Raj Grover",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Shilpi  Bhatt",
+        "specialty": "MBBS, DCH, DNB, MRCPCH"
+    },
+    {
+        "name": "Dr. Gowri Meena Selvaraj",
+        "specialty": "DM Nephrology, MD, MBBS"
+    },
+    {
+        "name": "Dr. Lavanya Anuroop",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Anitha Pari",
+        "specialty": "MBBS, MS"
+    },
+    {
+        "name": "Dr. Zahid  Hussain",
+        "specialty": "MBBS, MS, MCh, MChir"
+    },
+    {
+        "name": "Dr. Dinesh Yadav",
+        "specialty": "MBBS, MS, DNB, MRSC"
+    },
+    {
+        "name": "Dr. Dhanaselvi Palanivel",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Anuranjita  Pallavi",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Vinod Priyadarshi",
+        "specialty": "MD, MBBS"
+    },
+    {
+        "name": "Dr. Yeshwanth  Ram",
+        "specialty": "MBBS, D.P.M"
+    },
+    {
+        "name": "Dr. N K Tak",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Vidisha X",
+        "specialty": "MBBS, MD, DM"
+    },
+    {
+        "name": "Dr. Santosh Ramdurg",
+        "specialty": "MBBS, MD Paediatrics ( Gold medalist), Fellowship in Neonatology"
+    },
+    {
+        "name": "Dr. Tejas  Patel",
+        "specialty": "MBBS, DGO, DR"
+    },
+    {
+        "name": "Dr. V P Y K Prasanna",
+        "specialty": "MBBS, MD, FCCS, MRCP(2), CCEBDM"
+    },
+    {
+        "name": "Dr. Hareesh M V K",
+        "specialty": "MBBS, MS, MCH"
+    },
+    {
+        "name": "Dr. Shivamurthy Y L",
+        "specialty": "MD"
+    },
+    {
+        "name": "Dr. Divya Prakash",
+        "specialty": "MBBS, DGO"
+    },
+    {
+        "name": "Dr. Soham Sanyal",
+        "specialty": "MBBS, MD, GMC REGISTERED PHYSICIAN FROM UNITED KINGDOM"
+    },
+    {
+        "name": "Dr. Sambuddha Dhar",
+        "specialty": "MBBS, PGPHA"
+    },
+    {
+        "name": "Dr. Roshni Shukla",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Sameer Upadhyay",
+        "specialty": "MBBS, DNB"
+    },
+    {
+        "name": "Dr. Syed Mukhtar Mohiuddin",
+        "specialty": "MBBS, FIDM, FFM"
+    },
+    {
+        "name": "Dr. Surbhi Vaish Mittal",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Ranjini Manoharan",
+        "specialty": "MBBS, GP"
+    },
+    {
+        "name": "Dr. Rahul Poddar",
+        "specialty": "MBBS, DCH"
+    },
+    {
+        "name": "Dr. Manisha Jain",
+        "specialty": "MBBS, PGDip Palliative Med, Pgdppm, Pgdpm"
+    },
+    {
+        "name": "Dr. Jaypriya C.d",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Sunil Ratnam",
+        "specialty": "MD"
+    },
+    {
+        "name": "Dr. Carolina Daniel",
+        "specialty": "MBBS, MS, DNB"
+    },
+    {
+        "name": "Dr. Praveena Karnam",
+        "specialty": "MD"
+    },
+    {
+        "name": "Dr. Chetan Sharma",
+        "specialty": "MBBS, C.Diab"
+    },
+    {
+        "name": "Dr. Jasreen Kaur",
+        "specialty": "MBBS, MD, DNB PSYCHIATRY"
+    },
+    {
+        "name": "Dr. Arun Kumar",
+        "specialty": "MBBS, MS, DNB, FNB Spine Surgery, Global Spine Diploma, APSS SICOT Spine Fellowship"
+    },
+    {
+        "name": "Dr. Pradeep Singh",
+        "specialty": "MBBS, MD, DMRT"
+    },
+    {
+        "name": "Dr. Archana Pattar",
+        "specialty": "MBBS, MS"
+    },
+    {
+        "name": "Dr. Kamal Kishore Verma",
+        "specialty": "MBBS, D. DIAB"
+    },
+    {
+        "name": "Dr. Dilip Chand Raja Soundararajan",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Rajeevalochana Parthasarathy",
+        "specialty": "MBBS, DGO"
+    },
+    {
+        "name": "Dr. Jagdish Shinde",
+        "specialty": "MBBS, DCh, MD"
+    },
+    {
+        "name": "Dr. Natasha Bansal",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Priyam  Upadhyay",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Pratyusha Paruchuri",
+        "specialty": "MBBS, MD, DNB"
+    },
+    {
+        "name": "Dr. Aamina Tabassum",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Mentila Aier",
+        "specialty": "MBBS, DCH, MRCPCH, Fellow In Neonatal Medicine"
+    },
+    {
+        "name": "Dr. Dipi Agrawal",
+        "specialty": "MD"
+    },
+    {
+        "name": "Dr. Vinoth Kv",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Archana Pande",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Anbarasu Ram",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Amruta Bakshi",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Vishal Parmar",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Vijay Gupta",
+        "specialty": "MBBS, MS, Fellowship in Joint Replacement, Fellowship in Arthroscopy and Sports Medicine"
+    },
+    {
+        "name": "Dr. Udaya Sree Chennuru",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Ankita Sharma",
+        "specialty": "MBBS, MD, DNB"
+    },
+    {
+        "name": "Dr. Veera Bhadram",
+        "specialty": "MBBS, DNB, MRCPCH"
+    },
+    {
+        "name": "Dr. Bhavitha Jeniffer",
+        "specialty": "MBBS, MS"
+    },
+    {
+        "name": "Dr. Manisha Auradkar",
+        "specialty": "MBBS, DGO"
+    },
+    {
+        "name": "Dr. Deepak Nalla",
+        "specialty": "MD"
+    },
+    {
+        "name": "Dr. Viswateja Kolla",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Kartik Purohit",
+        "specialty": "MS"
+    },
+    {
+        "name": "Dr. Karthika  Karthikeyan",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Sudha Seetharam",
+        "specialty": "MBBS, F.I.O.G with laparoscopy"
+    },
+    {
+        "name": "Dr. Deepika",
+        "specialty": "MBBS, MD, FCCS, FCM, DDM"
+    },
+    {
+        "name": "Dr. Balaji  Patil",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Madhukar  Rao",
+        "specialty": "MBBS, DPM"
+    },
+    {
+        "name": "Dr. Charul Mittal",
+        "specialty": "MBBS, MS, Mch, DNB"
+    },
+    {
+        "name": "Dr. Sneha Bhuskute",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Ramashree",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Sagar Roy",
+        "specialty": "MBBS, MS"
+    },
+    {
+        "name": "Dr. Sirisha",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Shweta Biradar",
+        "specialty": "MBBS, FAM, DGO"
+    },
+    {
+        "name": "Dr. Radheshyam Chaudhari",
+        "specialty": "fcps medicine"
+    },
+    {
+        "name": "Dr. Sharon  Rosallyn",
+        "specialty": "MBBS, DPM"
+    },
+    {
+        "name": "Dr. Satya Prakash Kushwaha",
+        "specialty": "MS"
+    },
+    {
+        "name": "Dr. Srikanth Marla",
+        "specialty": "MBBS, DNB, Diploma Sports medicine, Fellowship Arthroscopy/sports medicine"
+    },
+    {
+        "name": "Dr. Shivasagari Parsa",
+        "specialty": "MBBS, MD, Fellowship Rheumatology"
+    },
+    {
+        "name": "Dr. Farheen  Qureshi",
+        "specialty": "MBBS, DNB"
+    },
+    {
+        "name": "Dr. Amol Lahane",
+        "specialty": "MBBS, D.Ortho"
+    },
+    {
+        "name": "Dr. Archana Pofale-mohare",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Bhushan  Kathuria",
+        "specialty": "MD"
+    },
+    {
+        "name": "Dr. Gajanand  Dhaked",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Anshul Goel",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Ashutosh Tiwari",
+        "specialty": "MBBS, DNB"
+    },
+    {
+        "name": "Dr. Nitinkumar Singh",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. G Harish Kumar",
+        "specialty": "MBBS, MS"
+    },
+    {
+        "name": "Dr. Nanda  Hiren",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Satya Mangalakshmi",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Sankha Subhra Roy",
+        "specialty": "DNB Nephrologist"
+    },
+    {
+        "name": "Dr. Yogi Sundharrao",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Vinutha R",
+        "specialty": "MBBS, D ortho"
+    },
+    {
+        "name": "Dr. Yelamarthi Nagendra Gowtham  Rayudu",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Yash Khanvilkar",
+        "specialty": "MBBS, MS"
+    },
+    {
+        "name": "Dr. Vishnupriya Veeraraghavan",
+        "specialty": "MBBS, DORTHO"
+    },
+    {
+        "name": "Dr. Saurin Dalal",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Swati  Negi",
+        "specialty": "MD"
+    },
+    {
+        "name": "Dr. Siddharth  Jaiswal",
+        "specialty": "MD, MD"
+    },
+    {
+        "name": "Dr. Manish Sharma",
+        "specialty": "MBBS, MS"
+    },
+    {
+        "name": "Dr. Nirupama  Rout",
+        "specialty": "MBBS, MS"
+    },
+    {
+        "name": "Dr. Santosh Kadam",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Ragasudha Botta",
+        "specialty": "MBBS, MS, DNB"
+    },
+    {
+        "name": "Dr. Srishti  Chojer",
+        "specialty": "DLO, MBBS, DNB"
+    },
+    {
+        "name": "Dr. Sumit Kumar",
+        "specialty": "MBBS, DDV"
+    },
+    {
+        "name": "Dr. Pintu Bhut",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Oliyath  Ali",
+        "specialty": "MBBS, MS, Mch"
+    },
+    {
+        "name": "Dr. Shashank Chaudhary",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Puthi  Sireesha",
+        "specialty": "MD"
+    },
+    {
+        "name": "Dr. Navajith Mani",
+        "specialty": "MBBS, DO"
+    },
+    {
+        "name": "Dr. Bhuvaneshwari Parthiban",
+        "specialty": "DLO"
+    },
+    {
+        "name": "Dr. Komal Sarode",
+        "specialty": "MS"
+    },
+    {
+        "name": "Dr. Lavanya",
+        "specialty": "MD"
+    },
+    {
+        "name": "Dr. Rishikesh Velhal",
+        "specialty": "MD"
+    },
+    {
+        "name": "Dr. Sneha Patil",
+        "specialty": "MD"
+    },
+    {
+        "name": "Dr. Sahil Kumar",
+        "specialty": "MBBS, CCDM, MD"
+    },
+    {
+        "name": "Dr. Kanchana Badri",
+        "specialty": "MD"
+    },
+    {
+        "name": "Dr. Hajira Khanam",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Mukesh Kumar",
+        "specialty": "MBBS, MRCP"
+    },
+    {
+        "name": "Dr. Chanki Makwana",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Anusha Merugu",
+        "specialty": "MBBS, MS"
+    },
+    {
+        "name": "Dr. Balakrishnan Mohan",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Abhishek Ghose Biswas",
+        "specialty": "MBBS, DNB"
+    },
+    {
+        "name": "Dr. Afsar Khan",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Cheryl Ann Chachappan",
+        "specialty": "MD"
+    },
+    {
+        "name": "Dr. Adeela Anees",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Ajay Vashishtha",
+        "specialty": "MBBS, DNB"
+    },
+    {
+        "name": "Dr. Anchal Tripathi",
+        "specialty": "MBBS, DDVL, DNB"
+    },
+    {
+        "name": "Dr. Brinda P R",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Komirelly Mounica",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Arpit Varshney",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Arindam Ganguly",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Ashwini  Kolichala",
+        "specialty": "MBBS, DCH"
+    },
+    {
+        "name": "Dr. Hemalatha  A S",
+        "specialty": "MD"
+    },
+    {
+        "name": "Dr. Asifa  N",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Narsonai A",
+        "specialty": "MBBS, Degree in Trichology ( IAT), Diploma Cosmetology"
+    },
+    {
+        "name": "Dr. Dwaipayan  Bhattacharya",
+        "specialty": "MD, BSc"
+    },
+    {
+        "name": "Dr. Ishrat  Ali",
+        "specialty": "BASLP"
+    },
+    {
+        "name": "Dr. Chirag Bhandari",
+        "specialty": "MS"
+    },
+    {
+        "name": "Dr. Shruti Gangwani",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Sandhya Rani Pn",
+        "specialty": "MBBS, DO"
+    },
+    {
+        "name": "Dr. Sreeram  Kumar",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Nithishwar Kota",
+        "specialty": "MBBS, MS"
+    },
+    {
+        "name": "Dr. Monie Riju Simon",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Sabana Ansari",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Priya  Agarwal",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Wajid Kanue",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Meena Devi",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Poorna Chandra",
+        "specialty": "MBBS, DNB"
+    },
+    {
+        "name": "Dr. Suhan Sakthivel",
+        "specialty": "MBBS, MS"
+    },
+    {
+        "name": "Dr. Rankita Tiwari",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Sandhyaa K",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Saili Lad",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Sunil  Kumar",
+        "specialty": "MBBS, FDM"
+    },
+    {
+        "name": "Dr. Vijaysinh Patil",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Soumithra Datta",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Rajammal Manohar",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. V Krishna Kedarisetti",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Vineela Gaddipati",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Deepika Suresh",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Dhivya Mohan",
+        "specialty": "MS"
+    },
+    {
+        "name": "Dr. Niladri Das",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Deepalakshmi Manimaran",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Remya Raj",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Milan  Dangariya",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Pranjal Jyoti Chakravarty",
+        "specialty": "MBBS, MD, MRCP"
+    },
+    {
+        "name": "Dr. Poulomi Roy Choudhury",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Pramodh Kumar N",
+        "specialty": "MD"
+    },
+    {
+        "name": "Dr. Malar",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Channaveer Durgad",
+        "specialty": "MBBS, DNB"
+    },
+    {
+        "name": "Dr. Kiran Gangadhar",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Jerom Paul",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Khumansing Pawara",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Isswariya Dhevi",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Fias Musthafa",
+        "specialty": "MBBS, DGO"
+    },
+    {
+        "name": "Dr. Akshaya Jayachandran",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Firdos",
+        "specialty": "MBBS, Fellowship in Diabetes Mellitus, Fellowship in primary care paediatrics, Master in clinical Nutrition"
+    },
+    {
+        "name": "Dr. Hanitha Rajasekar",
+        "specialty": "MS"
+    },
+    {
+        "name": "Dr. Kirthika Gnanasekaran",
+        "specialty": "MBBS, DNB"
+    },
+    {
+        "name": "Dr. Atul Sharma",
+        "specialty": "MBBS, DFM"
+    },
+    {
+        "name": "Dr. Debayan Mandal",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Amit Kumar",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Akshita  Kundra",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Aditi Nikam",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Akhila Kalluri",
+        "specialty": "MBBS, MS"
+    },
+    {
+        "name": "Dr. Charles Immanuel",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Arulvani Murugan",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Arina Chandrababu",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Amalraj Vijay",
+        "specialty": "MBBS, MS"
+    },
+    {
+        "name": "Dr. Ashutosh Pandey",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Jawwad Md Kaleem",
+        "specialty": "MBBS, PGDS"
+    },
+    {
+        "name": "Dr. Katari Naga Bindusha  Krishna",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Karthik D M",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Fayezah Syed",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Keerthanaraj P",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Gunjan Rana",
+        "specialty": "B.A.M.S"
+    },
+    {
+        "name": "Dr. Ayesha Fathima",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Krishna Kumar S",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Kella Nvssprabhu",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Devanshu Gupta",
+        "specialty": "MBBS, MS"
+    },
+    {
+        "name": "Dr. Harshada Rane",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Eram Khan",
+        "specialty": "MBBS, PGCC"
+    },
+    {
+        "name": "Dr. Mohan Srivatsava Vayalapelli",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Neelanjana Dutta",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Renuka Pamidi",
+        "specialty": "MBBS, D Ortho, DNB Ortho, Fellowship in sports injuries and artthroscopy"
+    },
+    {
+        "name": "Dr. Parangi Arthur",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Laxmi Pandey",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Priyanka Acharya",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Priya  Singh",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Uzma Alvi",
+        "specialty": "MD"
+    },
+    {
+        "name": "Dr. Vamshi Krishna",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Shastri  Sree Mounika",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Sankalp  Katara",
+        "specialty": "MCh, MChir"
+    },
+    {
+        "name": "Dr. Smrithi Nair",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Trija Banerjee",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Sunil Chandrashekar",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Siva Gopi Kesani",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Saurabh  Mishra",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Upashi  Kashyap",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Ruhi Anjum",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Reshmi Priya",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Riyas Shaji",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Sreeja Dutta",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Sahil Sheikh",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Ranjan R A",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Shreya",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Sairam V N",
+        "specialty": "MBBS, D.DIAB"
+    },
+    {
+        "name": "Dr. Ratnil Joshi",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Saimona R S",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. P.monica Aneesha",
+        "specialty": "MBBS, MS"
+    },
+    {
+        "name": "Dr. Muffasira  Begum",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Mukesh",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Priyanka Shekade",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Rahul  Kumar",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Marudha Kanmai",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Monalisha  Das",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Nasheeda Fathima",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Noor Mohamed  Rasik",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Rajdeep Dutta",
+        "specialty": "MBBS, MS"
+    },
+    {
+        "name": "Dr. Shrestha Srivastava",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Surabhi Nasre",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Sumita Saroj",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Surya Thyagarajan",
+        "specialty": "MBBS, MS"
+    },
+    {
+        "name": "Dr. Zeel Patel",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Sundaram M",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Zainab Amjad",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Swapnil Shukla",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Varun H U",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Siddu Awunti",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Kola Shravani",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Arun N A",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Divya Jha",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Dharshini K",
+        "specialty": "MBBS, MD"
+    },
+    {
+        "name": "Dr. Chirag Ambaliya",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Hemanth  R",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Dhivya Bharathi",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Jyoti Rao",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Jeya Aparna Deivendran",
+        "specialty": "MBBS, MS"
+    },
+    {
+        "name": "Dr. Harsh Dudhat",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Ahmed Faraz Khan",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Apoorva T Raju",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Alekhya Somayajula",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Soumya  Dattatreya",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Cynthia  Ann",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Afzal Memon",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Abirami Raj",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Aadhirai Manavalan",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Roshen Sabiha",
+        "specialty": "MBBS, DNB, DM, DrNB"
+    },
+    {
+        "name": "Dr. Angelin Rebecca  Albert",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Arthi  Thangavel",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Kishore Kumar",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Kesavamani  J",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Gadhiraju  Mounika",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Gopavaram  Sai Madhu Surya",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Keerthana Chandrasekaran",
+        "specialty": "MD"
+    },
+    {
+        "name": "Dr. Balamurali Krishnan",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Harpreet  Arora",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Jagathiswari Purushothaaman",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Ashwini Devi S",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Deepak Selvanathan",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Dheeraj Pathri",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Manoj Kumar",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Nanthini Nallu",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Puneet Bhatt",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Lokesh Rajendran",
+        "specialty": "MBBS, MS"
+    },
+    {
+        "name": "Dr. Divya Vashisht",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Mariette",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Monisha  Mary",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Naresh Rada",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Satya Lohitha",
+        "specialty": "MBBS"
+    },
+    {
+        "name": "Dr. Rowena Robins",
+        "specialty": "MBBS"
+    }
+]
