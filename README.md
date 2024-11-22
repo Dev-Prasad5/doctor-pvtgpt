@@ -44,7 +44,7 @@ This is an interactive Doctor GPT model that allows users to ask about doctors s
     - "Who specializes in plastic surgery?"
     - "Who is a cardiologist?"
 
-The model answers by listing doctors who specialize in the requested field based on the scraped data.
+- The model answers by listing doctors who specialize in the requested field based on the scraped data.
 
 ## Data Scraping
  * Website Used: [Medindia Doctor Appointment](https://www.medindia.net/doctor-appointment/tele-consultation.asp?category=Allopathy%20Doctors)
